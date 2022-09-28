@@ -6,9 +6,9 @@ Atualmente estudando para me tornar Front-End Developer.
 
 > ⚛️ Estudo: HTML, CSS, JS, React & SQL.
 
-> 🌱 Pretendo: Cursar Análise e Desenvolvimento de Sistemas.
+> 🌱 Curso: Análise e Desenvolvimento de Sistemas.
 
-> ⚡ Cursos: Rockseat - Trilha Descover
+> ⚡ Cursos: Rockseat - Trilha Descover / Endereçamento de IPv4 - Curso em video / Javascript - Curso em video
 
 ---
 
