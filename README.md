@@ -18,13 +18,3 @@
 ([![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,c,php,react,tailwind,mysql	)](https://skillicons.dev)
   
 </div>
-
-
-<div>
-
-💬 Quer entrar em contato?
-  <br>
-
-  
-  <a href = "mailto:pietravalentinah@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
-</div>
