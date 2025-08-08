@@ -57,9 +57,9 @@ Seja muito bem-vindo(a) ao meu GitHub! 🚀✨
 
 ## 💼 Projetos em Destaque
 
-- [**Meu Portfólio**](https://github.com/PietraValen/portfolio) — Site responsivo para mostrar meus trabalhos e habilidades.
-- [**Clone do Netflix**](https://github.com/PietraValen/netflix-clone) — Projeto prático com React.js e consumo de APIs.
-- [**ToDo List com Angular**](https://github.com/PietraValen/angular-todo) — Lista de tarefas moderna e intuitiva.
+- [**Meu Portfólio**]([https://github.com/PietraValen/pietra-react-replica](https://pietrahimmelsbacg.vercel.app/)) — Site responsivo para mostrar meus trabalhos e habilidades.
+- [**Capital Consulta Cep**]([https://github.com/PietraValen/ConsultaCEP](https://capitalconsultacep.vercel.app/)) — Projeto prático para consultas de CEP e consumo de API.
+- [**ToDo List com Angular**]() — Lista de tarefas moderna e intuitiva.
 - (Veja mais projetos em [meus repositórios](https://github.com/PietraValen?tab=repositories))
 
 ---
