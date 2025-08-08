@@ -1,25 +1,20 @@
-<div align="center">
 
 # 👩‍💻 Pietra Valentina
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/pietravalen)](https://www.linkedin.com/in/pietravalen)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/pietravalen)](https://www.linkedin.com/in/pietravalen)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:pietravalentinah@outlook.com)](mailto:pietravalentinah@outlook.com)
 [![GitHub followers](https://img.shields.io/github/followers/PietraValen?style=social)](https://github.com/PietraValen)
-
-<img src="https://media.istockphoto.com/id/1305993577/pt/vetorial/quantum-physics-science-and-technology-background-vector-illustration.jpg?s=612x612&w=0&k=20&c=7iQ9XjT5RzJtpJ7lPl1jVn1qLoCk57XqgKpq3h2GkU8=" width="320" alt="Física Quântica" />
-
-</div>
+![Física Quântica](assets/quantum.jpg)
 
 ---
 
-<p align="center"><i>
-“Se você acha que entende mecânica quântica, é porque você não entende mecânica quântica.”  
-— Richard Feynman
-</i></p>
+> *“Se você acha que entende mecânica quântica, é porque você não entende mecânica quântica.”*  
+> — Richard Feynman
 
 ---
 
-Olá! Sou a <b>Pietra Valentina</b>, desenvolvedora FullStack apaixonada por tecnologia, ciência e pelo universo das infinitas possibilidades do mundo quântico.  
+Olá! Sou a **Pietra Valentina**, desenvolvedora FullStack apaixonada por tecnologia, ciência e pelo universo das infinitas possibilidades do mundo quântico.  
 Seja muito bem-vindo(a) ao meu GitHub! 🚀✨
 
 ---
@@ -38,22 +33,16 @@ Seja muito bem-vindo(a) ao meu GitHub! 🚀✨
 
 ## 🚀 Tecnologias & Ferramentas
 
-<div align="left">
-  
 [![Minhas Habilidades](https://skillicons.dev/icons?i=js,ts,html,css,react,angular,nodejs,express,tailwind,php,python,java,mysql,postgresql,mongodb,c,cs,git,figma,vscode,docker,linux)](https://skillicons.dev)
-  
-</div>
 
 ---
 
 ## 🧠 Física Quântica & Computação
 
-<div align="center">
-    <img src="https://media.istockphoto.com/id/1305993577/pt/vetorial/quantum-physics-science-and-technology-background-vector-illustration.jpg?s=612x612&w=0&k=20&c=7iQ9XjT5RzJtpJ7lPl1jVn1qLoCk57XqgKpq3h2GkU8=" width="300" alt="Física Quântica" />
-</div>
+![Física Quântica](assets/quantum.jpg)
 
 - Em constante estudo sobre **mecânica quântica**, **teoria das cordas** e **computação quântica**
-- Artigo em desenvolvimento: _Como a Computação Quântica pode revolucionar a tecnologia da informação_
+- Artigo em desenvolvimento: *Como a Computação Quântica pode revolucionar a tecnologia da informação*
 - Buscando conectar algoritmos, lógica, matemática e física fundamental
 - Leituras favoritas: "O Universo Numa Casca de Noz", "O Tecido do Cosmos", "Quantum Computation and Quantum Information"
 
@@ -61,12 +50,8 @@ Seja muito bem-vindo(a) ao meu GitHub! 🚀✨
 
 ## 📈 GitHub Stats
 
-<div align="center">
-
 ![Pietra Valen GitHub stats](https://github-readme-stats.vercel.app/api?username=PietraValen&show_icons=true&theme=radical&hide_title=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PietraValen&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
 
 ---
 
@@ -96,7 +81,6 @@ Seja muito bem-vindo(a) ao meu GitHub! 🚀✨
 
 ---
 
-<div align="center">
-  
-⭐️ _Se gostou do meu trabalho, deixe uma estrela!_  
-</div>
+---
+
+⭐️ *Se gostou do meu trabalho, deixe uma estrela!*
