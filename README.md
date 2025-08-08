@@ -57,7 +57,7 @@ Seja muito bem-vindo(a) ao meu GitHub! 🚀✨
 
 ## 💼 Projetos em Destaque
 
-- [**Meu Portfólio**]([https://github.com/PietraValen/pietra-react-replica](https://pietrahimmelsbacg.vercel.app/)) — Site responsivo para mostrar meus trabalhos e habilidades.
+- [**Meu Portfólio**]([https://github.com/PietraValen/pietra-react-replica]) — Site responsivo para mostrar meus trabalhos e habilidades. <a href: (https://pietrahimmelsbacg.vercel.app/)><\a>
 - [**Capital Consulta Cep**]([https://github.com/PietraValen/ConsultaCEP](https://capitalconsultacep.vercel.app/)) — Projeto prático para consultas de CEP e consumo de API.
 - [**ToDo List com Angular**]() — Lista de tarefas moderna e intuitiva.
 - (Veja mais projetos em [meus repositórios](https://github.com/PietraValen?tab=repositories))
