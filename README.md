@@ -70,6 +70,7 @@ Seja muito bem-vindo(a) ao meu GitHub! 🚀✨
 - Testes automatizados (Jest, Cypress)
 - Integração com APIs REST, GraphQL e WebSockets
 - Computação quântica aplicada e algoritmos quânticos
+- PHP, Vue.JS, Nuxt.js,  Laravel, Vuetify
 
 ---
 
