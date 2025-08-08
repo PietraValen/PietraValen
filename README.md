@@ -1,22 +1,102 @@
+<div align="center">
 
-<div align="start"> <h1> 
-  Olá, sou a Pietra Valentina  <br>  Seja bem vindo(a) a minha página! </h1>
-</div>
-<hr>
+# 👩‍💻 Pietra Valentina
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/pietravalen)](https://www.linkedin.com/in/pietravalen)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:pietravalentinah@outlook.com)](mailto:pietravalentinah@outlook.com)
+[![GitHub followers](https://img.shields.io/github/followers/PietraValen?style=social)](https://github.com/PietraValen)
 
+<img src="https://media.istockphoto.com/id/1305993577/pt/vetorial/quantum-physics-science-and-technology-background-vector-illustration.jpg?s=612x612&w=0&k=20&c=7iQ9XjT5RzJtpJ7lPl1jVn1qLoCk57XqgKpq3h2GkU8=" width="320" alt="Física Quântica" />
 
-<em > <p align="start">Desenvolvedora Front-End</p> </em>
-- 📫 Meu email: pietravalentinah@outlook.com
-
-</div>
-
-  <div style="display: inline_block">
-     <h2>⚡Tecnologias:</h2>
-  
-  
-[![Minhas Habilidades](https://skillicons.dev/icons?i=js,html,css,cs,c,php,react,tailwind,mysql,java,angular,ts,python	)](https://skillicons.dev)
-  
 </div>
 
+---
 
+<p align="center"><i>
+“Se você acha que entende mecânica quântica, é porque você não entende mecânica quântica.”  
+— Richard Feynman
+</i></p>
+
+---
+
+Olá! Sou a <b>Pietra Valentina</b>, desenvolvedora FullStack apaixonada por tecnologia, ciência e pelo universo das infinitas possibilidades do mundo quântico.  
+Seja muito bem-vindo(a) ao meu GitHub! 🚀✨
+
+---
+
+## ✨ Sobre Mim
+
+- 👩‍💻 Desenvolvedora **FullStack**
+- 🎓 Estudante de **Ciências da Computação**
+- 📜 Em processo de escrita de um artigo sobre **Computação Quântica**
+- 🛸 Fascinada por física quântica, teoria da informação e aplicações tecnológicas da ciência
+- 🤝 Aberta para colaboração em projetos open-source, tecnologia e divulgação científica
+- 🌎 Brasil
+- 📫 [pietravalentinah@outlook.com](mailto:pietravalentinah@outlook.com)
+
+---
+
+## 🚀 Tecnologias & Ferramentas
+
+<div align="left">
+  
+[![Minhas Habilidades](https://skillicons.dev/icons?i=js,ts,html,css,react,angular,nodejs,express,tailwind,php,python,java,mysql,postgresql,mongodb,c,cs,git,figma,vscode,docker,linux)](https://skillicons.dev)
+  
+</div>
+
+---
+
+## 🧠 Física Quântica & Computação
+
+<div align="center">
+    <img src="https://media.istockphoto.com/id/1305993577/pt/vetorial/quantum-physics-science-and-technology-background-vector-illustration.jpg?s=612x612&w=0&k=20&c=7iQ9XjT5RzJtpJ7lPl1jVn1qLoCk57XqgKpq3h2GkU8=" width="300" alt="Física Quântica" />
+</div>
+
+- Em constante estudo sobre **mecânica quântica**, **teoria das cordas** e **computação quântica**
+- Artigo em desenvolvimento: _Como a Computação Quântica pode revolucionar a tecnologia da informação_
+- Buscando conectar algoritmos, lógica, matemática e física fundamental
+- Leituras favoritas: "O Universo Numa Casca de Noz", "O Tecido do Cosmos", "Quantum Computation and Quantum Information"
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![Pietra Valen GitHub stats](https://github-readme-stats.vercel.app/api?username=PietraValen&show_icons=true&theme=radical&hide_title=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PietraValen&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+---
+
+## 💼 Projetos em Destaque
+
+- [**Meu Portfólio**](https://github.com/PietraValen/portfolio) — Site responsivo para mostrar meus trabalhos e habilidades.
+- [**Clone do Netflix**](https://github.com/PietraValen/netflix-clone) — Projeto prático com React.js e consumo de APIs.
+- [**ToDo List com Angular**](https://github.com/PietraValen/angular-todo) — Lista de tarefas moderna e intuitiva.
+- (Veja mais projetos em [meus repositórios](https://github.com/PietraValen?tab=repositories))
+
+---
+
+## 📚 Em Aprendizado
+
+- Next.js e frameworks modernos de front-end/back-end
+- Testes automatizados (Jest, Cypress)
+- Integração com APIs REST, GraphQL e WebSockets
+- Computação quântica aplicada e algoritmos quânticos
+
+---
+
+## 🤝 Vamos Conectar?
+
+- [LinkedIn](https://www.linkedin.com/in/pietravalen)
+- [Email](mailto:pietravalentinah@outlook.com)
+- Troque ideias sobre tecnologia, física, ciência ou projetos!
+
+---
+
+<div align="center">
+  
+⭐️ _Se gostou do meu trabalho, deixe uma estrela!_  
+</div>
