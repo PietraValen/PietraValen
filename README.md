@@ -22,12 +22,12 @@ Seja muito bem-vindo(a) ao meu GitHub! 🚀✨
 ## ✨ Sobre Mim
 
 - 👩‍💻 Desenvolvedora **FullStack**
-- 🎓 Estudante de **Ciências da Computação**
+- 🎓 Estudante de **Ciências da Computação** e  **Física**
 - 📜 Em processo de escrita de um artigo sobre **Computação Quântica**
-- 🛸 Fascinada por física quântica, teoria da informação e aplicações tecnológicas da ciência
+- 🛸 Fascinada por mecânica quântica, teoria da informação e aplicações tecnológicas da ciência
 - 🤝 Aberta para colaboração em projetos open-source, tecnologia e divulgação científica
 - 🌎 Brasil
-- 📫 [pietravalentinah@outlook.com](mailto:pietravalentinah@outlook.com)
+- 📫 [pievalentinah@gmail.com](mailto:pievalentinah@gmail.com)
 
 ---
 
@@ -37,7 +37,7 @@ Seja muito bem-vindo(a) ao meu GitHub! 🚀✨
 
 ---
 
-## 🧠 Física Quântica & Computação
+## 🧠 Mecânica Quântica & Computação
 
 ![Física Quântica](assets/quantum.jpg)
 
@@ -66,18 +66,18 @@ Seja muito bem-vindo(a) ao meu GitHub! 🚀✨
 
 ## 📚 Em Aprendizado
 
-- Next.js e frameworks modernos de front-end/back-end
+- Aprendizagem de maquina
 - Testes automatizados (Jest, Cypress)
-- Integração com APIs REST, GraphQL e WebSockets
+- Linguagens Quântica e Cálculos de nível Intermediário 
 - Computação quântica aplicada e algoritmos quânticos
-- PHP, Vue.JS, Nuxt.js,  Laravel, Vuetify
+- Aprimoramento de Swift, Kotlin e Aplicações Mobile
 
 ---
 
 ## 🤝 Vamos Conectar?
 
 - [LinkedIn](https://www.linkedin.com/in/pietravalen)
-- [Email](mailto:pietravalentinah@outlook.com)
+- [Email](mailto:pievalentinah@gmail.com)
 - Troque ideias sobre tecnologia, física, ciência ou projetos!
 
 ---
